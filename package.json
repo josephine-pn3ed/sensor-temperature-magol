@@ -1,0 +1,30 @@
+{
+  "name": "sensor-temperature-magol",
+  "version": "1.0.0",
+  "description": "A table that displays the payload(temperature) in each group.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "10.x"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephine-pn3ed/sensor-temperature-magol.git"
+  },
+  "keywords": [
+    "mqtt",
+    "node"
+  ],
+  "author": "Josephine P. Morre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephine-pn3ed/sensor-temperature-magol/issues"
+  },
+  "homepage": "https://github.com/josephine-pn3ed/sensor-temperature-magol#readme"
+}
